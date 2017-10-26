@@ -1,4 +1,6 @@
 def position_taken?(board, index)
-  if array[index_number]== " "
+  taken=nil
+  if board[index]== " "
+    taken=false
   end
 end
